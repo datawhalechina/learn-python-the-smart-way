@@ -37,7 +37,7 @@
 
 ## 联系方式
 知乎 @小雨姑娘
-Email: cs_xcy@126.com
+Email: chuanyu.xue@uconn.edu
 
 ## 关注我们
 <div align=center><img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "250" height = "270" alt="Datawhale是一个专注AI领域的开源组织，以“for the learner，和学习者一起成长”为愿景，构建对学习者最有价值的开源学习社区。关注我们，一起学习成长。"></div>
