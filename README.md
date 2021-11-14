@@ -30,10 +30,17 @@
 柏拉图曾经说过：“良好的开端等于成功的一半”。大家选择本教程作为建起万丈高楼的地基，对于我而言便是莫大的荣幸。衷心希望大家在本教程陪伴下迈向未来的同时，也能享受学习过程中带来的乐趣。
 
 ## 如何使用这套教程？
-1. 本地下载安装 jupyter notebook 打开 ipynb 文件，安装使用方法参考：https://www.jianshu.com/p/91365f343585/
-2. 在和鲸社区 https://www.heywhale.com 创建项目，上传 .ipynb 文件可在线打开
-3. 在 Colab 上传 .ipynb 在线打开 （需要科学上网）
+1. 在 Github 网页版直接打开 ipynb 文件查看
+2. 本地下载安装 jupyter notebook 运行 ipynb 文件，安装使用方法参考：https://www.jianshu.com/p/91365f343585/
+3. 在和鲸社区 https://www.heywhale.com 创建项目，上传 .ipynb 文件可在线运行
+4. 在 Google Colab 上传 .ipynb 在线运行 （需要科学上网）
 
 ## 联系方式
 知乎 @小雨姑娘
-Email: cs_xcy@126.com
+Email: chuanyu.xue@uconn.edu
+
+## 关注我们
+<div align=center><img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "250" height = "270" alt="Datawhale是一个专注AI领域的开源组织，以“for the learner，和学习者一起成长”为愿景，构建对学习者最有价值的开源学习社区。关注我们，一起学习成长。"></div>
+
+## LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
