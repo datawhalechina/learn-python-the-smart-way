@@ -30,9 +30,9 @@
 柏拉图曾经说过：“良好的开端等于成功的一半”。大家选择本教程作为建起万丈高楼的地基，对于我而言便是莫大的荣幸。衷心希望大家在本教程陪伴下迈向未来的同时，也能享受学习过程中带来的乐趣。
 
 ## 如何使用这套教程？
-1. 在 Github 网页版直接打开 ipynb 文件查看
-2. 本地下载安装 jupyter notebook 运行 ipynb 文件，安装使用方法可参考这篇[博客](https://www.jianshu.com/p/91365f343585/)
-3. 在[和鲸社区](https://www.heywhale.com)创建项目，上传 .ipynb 文件可在线运行
+1. 在 Github 网页版直接打开 ipynb 文件查看(推荐)
+2. 本地下载安装 jupyter notebook 运行 ipynb 文件，安装使用方法可参考这篇 [博客](https://www.jianshu.com/p/91365f343585/)
+3. 在 [和鲸社区](https://www.heywhale.com) 创建项目，上传 .ipynb 文件可在线运行
 4. 在 [Google Colab](https://www.colab.google.com) 上传 .ipynb 在线运行 （需要科学上网）
 
 ## 联系方式
