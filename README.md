@@ -36,7 +36,8 @@
 4. 在 [Google Colab](https://www.colab.google.com) 上传 .ipynb 在线运行 （需要科学上网）
 
 ## 联系方式
-知乎 @小雨姑娘
+知乎 [@小雨姑娘](https://www.zhihu.com/people/xuechuanyu)
+
 Email: chuanyu.xue@uconn.edu
 
 ## 关注我们
