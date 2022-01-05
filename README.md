@@ -31,9 +31,9 @@
 
 ## 如何使用这套教程？
 1. 在 Github 网页版直接打开 ipynb 文件查看
-2. 本地下载安装 jupyter notebook 运行 ipynb 文件，安装使用方法参考：https://www.jianshu.com/p/91365f343585/
-3. 在和鲸社区 https://www.heywhale.com 创建项目，上传 .ipynb 文件可在线运行
-4. 在 Google Colab 上传 .ipynb 在线运行 （需要科学上网）
+2. 本地下载安装 jupyter notebook 运行 ipynb 文件，安装使用方法可参考这篇[博客](https://www.jianshu.com/p/91365f343585/)
+3. 在[和鲸社区](https://www.heywhale.com)创建项目，上传 .ipynb 文件可在线运行
+4. 在 [Google Colab](https://www.colab.google.com) 上传 .ipynb 在线运行 （需要科学上网）
 
 ## 联系方式
 知乎 @小雨姑娘
