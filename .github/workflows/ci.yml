@@ -1,0 +1,43 @@
+name: Build and Deploy Docs
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+
+  build-docs:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with: 
+        python-version: 3.11
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+      
+    - name: Build documentation
+      run: sphinx-build ./notebook docs
+
+    - name: Setup Git
+      run: |
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+
+    - name: Commit changes
+      run: |
+        git add -f ./docs
+        git commit -m "Build Docs"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}

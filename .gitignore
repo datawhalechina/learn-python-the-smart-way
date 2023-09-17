@@ -1,0 +1,16 @@
+jupyter_execute/
+docs/
+
+# momodel
+.idea/
+*.pyc
+*.swp
+.DS_Store
+.localenv/
+datasets/
+core.*
+results/
+_README.ipynb
+_OVERVIEW.md
+.ipynb_checkpoints/
+coding_here.ipynb
