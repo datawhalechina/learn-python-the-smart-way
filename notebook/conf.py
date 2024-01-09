@@ -10,7 +10,7 @@ myst_enable_extensions = ['colon_fence', 'deflist', 'dollarmath', 'html_image', 
 
 master_doc = "index"
 project = "聪明办法学 Python"
-copyright = "2022 - 2023 Datawhale P2S Team"
+copyright = "2022 - 2024 Datawhale P2S Team"
 author = "P2S Team"
 
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints"]
@@ -30,4 +30,4 @@ html_theme_options = {
 
 nb_number_source_lines = True
 nb_execution_mode = 'off'
-execution_in_temp = True
+nb_execution_in_temp = True
